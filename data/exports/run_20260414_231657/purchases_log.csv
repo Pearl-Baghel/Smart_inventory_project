@@ -1,0 +1,16 @@
+purchase_date,component,qty_purchased,unit_of_measurement,unit_cost
+2026-01-06,Paneer,12,kg,8.0
+2026-01-06,Chickpea,12,kg,6.0
+2026-01-06,Red KidneyBean,12,kg,6.0
+2026-01-06,Onion,25,kg,5.0
+2026-01-06,Tomato,20,kg,4.0
+2026-01-06,Yogurt Base,10,kg,5.0
+2026-01-06,Strawberry,8,kg,2.5
+2026-01-06,Lemon Juice Mix,10,kg,3.5
+2026-01-06,Lentils,15,kg,2.0
+2026-01-06,Potato,20,kg,1.5
+2026-01-07,Meal Box Type 1,300,each,0.25
+2026-01-07,Yogurt Cup Type A,500,each,0.1
+2026-01-07,Drink Cup Type L,400,each,0.15
+2026-01-07,Soup Container Type S,300,each,0.2
+2026-01-07,Pani Puri Box Type B,250,each,0.18

@@ -1,0 +1,37 @@
+item,week_end_date,forecast_qty,method
+Chickpea Meal Plate,2026-04-19,20,Prophet
+Chickpea Meal Plate,2026-04-26,21,Prophet
+Chickpea Meal Plate,2026-05-03,21,Prophet
+Chickpea Meal Plate,2026-05-10,22,Prophet
+Lentil soup,2026-04-19,12,Prophet
+Lentil soup,2026-04-26,12,Prophet
+Lentil soup,2026-05-03,13,Prophet
+Lentil soup,2026-05-10,13,Prophet
+Paneer Meal Plate,2026-04-19,30,Prophet
+Paneer Meal Plate,2026-04-26,31,Prophet
+Paneer Meal Plate,2026-05-03,31,Prophet
+Paneer Meal Plate,2026-05-10,32,Prophet
+Pani Puri 12 Balls,2026-04-19,9,Prophet
+Pani Puri 12 Balls,2026-04-26,9,Prophet
+Pani Puri 12 Balls,2026-05-03,9,Prophet
+Pani Puri 12 Balls,2026-05-10,9,Prophet
+Pani Puri 5 Balls,2026-04-19,13,Prophet
+Pani Puri 5 Balls,2026-04-26,13,Prophet
+Pani Puri 5 Balls,2026-05-03,13,Prophet
+Pani Puri 5 Balls,2026-05-10,14,Prophet
+Pepsi Lemonade,2026-04-19,6,Prophet
+Pepsi Lemonade,2026-04-26,6,Prophet
+Pepsi Lemonade,2026-05-03,6,Prophet
+Pepsi Lemonade,2026-05-10,6,Prophet
+Red KidneyBean Plate,2026-04-19,21,Prophet
+Red KidneyBean Plate,2026-04-26,21,Prophet
+Red KidneyBean Plate,2026-05-03,22,Prophet
+Red KidneyBean Plate,2026-05-10,23,Prophet
+Strawberry yogurt,2026-04-19,17,Prophet
+Strawberry yogurt,2026-04-26,17,Prophet
+Strawberry yogurt,2026-05-03,18,Prophet
+Strawberry yogurt,2026-05-10,18,Prophet
+Water,2026-04-19,8,Prophet
+Water,2026-04-26,8,Prophet
+Water,2026-05-03,8,Prophet
+Water,2026-05-10,8,Prophet

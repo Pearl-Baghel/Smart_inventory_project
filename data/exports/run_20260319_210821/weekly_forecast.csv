@@ -1,0 +1,25 @@
+item,week_end_date,forecast_qty,method
+Lentil soup,2026-03-08,6.5,moving_avg_4w
+Lentil soup,2026-03-15,6.5,moving_avg_4w
+Lentil soup,2026-03-22,6.5,moving_avg_4w
+Lentil soup,2026-03-29,6.5,moving_avg_4w
+Paneer Meal plate,2026-03-08,7.5,moving_avg_4w
+Paneer Meal plate,2026-03-15,7.5,moving_avg_4w
+Paneer Meal plate,2026-03-22,7.5,moving_avg_4w
+Paneer Meal plate,2026-03-29,7.5,moving_avg_4w
+Pani Puri 12 Balls,2026-03-08,9.25,moving_avg_4w
+Pani Puri 12 Balls,2026-03-15,9.25,moving_avg_4w
+Pani Puri 12 Balls,2026-03-22,9.25,moving_avg_4w
+Pani Puri 12 Balls,2026-03-29,9.25,moving_avg_4w
+Pani Puri 5 Balls,2026-03-08,5.75,moving_avg_4w
+Pani Puri 5 Balls,2026-03-15,5.75,moving_avg_4w
+Pani Puri 5 Balls,2026-03-22,5.75,moving_avg_4w
+Pani Puri 5 Balls,2026-03-29,5.75,moving_avg_4w
+Pepsi Lemonade,2026-03-08,1.75,moving_avg_4w
+Pepsi Lemonade,2026-03-15,1.75,moving_avg_4w
+Pepsi Lemonade,2026-03-22,1.75,moving_avg_4w
+Pepsi Lemonade,2026-03-29,1.75,moving_avg_4w
+Strawberry yogurt,2026-02-15,6.5,moving_avg_4w
+Strawberry yogurt,2026-02-22,6.5,moving_avg_4w
+Strawberry yogurt,2026-03-01,6.5,moving_avg_4w
+Strawberry yogurt,2026-03-08,6.5,moving_avg_4w

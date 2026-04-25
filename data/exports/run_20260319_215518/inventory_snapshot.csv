@@ -1,0 +1,16 @@
+snapshot_date,component,on_hand_qty,unit_of_measurement,component_type
+2026-01-05,Paneer,10,kg,ingredient
+2026-01-05,Onion,20,kg,ingredient
+2026-01-05,Tomato,15,kg,ingredient
+2026-01-05,Yogurt Base,8,kg,ingredient
+2026-01-05,Strawberry,5,kg,ingredient
+2026-01-05,Pineapple,5,kg,ingredient
+2026-01-05,Lemon Juice Mix,6,kg,ingredient
+2026-01-05,Lentils,12,kg,ingredient
+2026-01-05,Potato,10,kg,ingredient
+2026-01-05,Spices Mix,3,kg,ingredient
+2026-01-05,Meal Box Type 1,150,each,packaging
+2026-01-05,Yogurt Cup Type A,200,each,packaging
+2026-01-05,Drink Cup Type L,180,each,packaging
+2026-01-05,Soup Container Type S,120,each,packaging
+2026-01-05,Pani Puri Box Type B,100,each,packaging

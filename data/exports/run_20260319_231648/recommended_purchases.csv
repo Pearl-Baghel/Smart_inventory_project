@@ -1,0 +1,23 @@
+week_end_date,component,component_type,uom,required_qty,safety_stock,on_hand_qty,recommended_purchase_qty
+2026-03-08,Corriander,ingredient,kg,8.63,1.29,2.0,7.92
+2026-03-08,Dates,ingredient,kg,8.56,1.28,20.0,0.0
+2026-03-08,Garlic,ingredient,kg,0.56,0.08,5.0,0.0
+2026-03-08,Ginger,ingredient,kg,0.56,0.08,4.0,0.0
+2026-03-08,Green chilli,ingredient,kg,9.19,1.38,2.0,8.57
+2026-03-08,Lemon,ingredient,kg,0.37,0.06,6.0,0.0
+2026-03-08,Lentils,ingredient,kg,0.99,0.15,12.0,0.0
+2026-03-08,Mint,ingredient,kg,8.56,1.28,2.0,7.84
+2026-03-08,Onion,ingredient,kg,1.31,0.2,20.0,0.0
+2026-03-08,Paneer,ingredient,kg,1.58,0.24,10.0,0.0
+2026-03-08,Potato,ingredient,kg,0.98,0.15,10.0,0.0
+2026-03-08,Spices Mix,ingredient,kg,0.14,0.02,3.0,0.0
+2026-03-08,Strawberry,ingredient,kg,0.0,0.0,5.0,0.0
+2026-03-08,Tamarid,ingredient,kg,4.28,0.64,10.0,0.0
+2026-03-08,Tomato,ingredient,kg,1.03,0.15,15.0,0.0
+2026-03-08,Yogurt Base,ingredient,kg,0.0,0.0,8.0,0.0
+2026-03-08,spices mix,ingredient,kg,0.21,0.03,0.0,0.25
+2026-03-08,Drink Cup Type L,packaging,each,1.0,0.0,180.0,0.0
+2026-03-08,Meal Box Type 1,packaging,each,6.0,1.0,150.0,0.0
+2026-03-08,Pani Puri Box Type B,packaging,each,7.0,1.0,100.0,0.0
+2026-03-08,Soup Container Type S,packaging,each,5.0,0.0,120.0,0.0
+2026-03-08,Yogurt Cup Type A,packaging,each,0.0,0.0,200.0,0.0

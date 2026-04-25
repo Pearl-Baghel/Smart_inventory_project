@@ -1,0 +1,26 @@
+week_end_date,component,component_type,uom,required_qty,safety_stock,on_hand_qty,recommended_purchase_qty
+2026-03-29,Chickpea,ingredient,kg,3,1,20,0
+2026-03-29,Corriander,ingredient,kg,15,3,4,14
+2026-03-29,Dates,ingredient,kg,14,3,20,0
+2026-03-29,Garlic,ingredient,kg,2,1,10,0
+2026-03-29,Ginger,ingredient,kg,2,1,5,0
+2026-03-29,Green chilli,ingredient,kg,16,3,5,14
+2026-03-29,Lemon,ingredient,kg,2,1,6,0
+2026-03-29,Lentils,ingredient,kg,2,1,25,0
+2026-03-29,Mint,ingredient,kg,14,3,5,12
+2026-03-29,Onion,ingredient,kg,4,1,25,0
+2026-03-29,Paneer,ingredient,kg,3,1,20,0
+2026-03-29,Potato,ingredient,kg,2,1,20,0
+2026-03-29,Red KidneyBean,ingredient,kg,2,1,20,0
+2026-03-29,Spices Mix,ingredient,kg,1,1,5,0
+2026-03-29,Strawberry,ingredient,kg,1,1,10,0
+2026-03-29,Tamarid,ingredient,kg,7,2,10,0
+2026-03-29,Tomato,ingredient,kg,4,1,30,0
+2026-03-29,Yogurt Base,ingredient,kg,2,1,15,0
+2026-03-29,spices mix,ingredient,kg,1,1,0,2
+2026-03-29,Drink Cup Type L,packaging,each,6,1,180,0
+2026-03-29,Meal Box Type 1,packaging,each,26,3,500,0
+2026-03-29,Pani Puri Box Type B,packaging,each,7,1,300,0
+2026-03-29,Soup Container Type S,packaging,each,8,1,300,0
+2026-03-29,Water Bottle,packaging,each,5,1,100,0
+2026-03-29,Yogurt Cup Type A,packaging,each,8,1,300,0

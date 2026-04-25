@@ -1,0 +1,22 @@
+week_end_date,component,component_type,uom,required_qty,safety_stock,on_hand_qty,recommended_purchase_qty
+2026-04-05,Corriander,ingredient,kg,19,3,2,20
+2026-04-05,Dates,ingredient,kg,18,3,20,1
+2026-04-05,Garlic,ingredient,kg,1,1,5,0
+2026-04-05,Ginger,ingredient,kg,1,1,4,0
+2026-04-05,Green chilli,ingredient,kg,19,3,2,20
+2026-04-05,Lemon,ingredient,kg,1,1,6,0
+2026-04-05,Lentils,ingredient,kg,2,1,12,0
+2026-04-05,Mint,ingredient,kg,18,3,2,19
+2026-04-05,Onion,ingredient,kg,1,1,20,0
+2026-04-05,Potato,ingredient,kg,2,1,10,0
+2026-04-05,Spices Mix,ingredient,kg,1,1,3,0
+2026-04-05,Strawberry,ingredient,kg,1,1,5,0
+2026-04-05,Tamarid,ingredient,kg,9,2,10,1
+2026-04-05,Tomato,ingredient,kg,1,1,15,0
+2026-04-05,Yogurt Base,ingredient,kg,2,1,8,0
+2026-04-05,spices mix,ingredient,kg,1,1,0,2
+2026-04-05,Drink Cup Type L,packaging,each,2,1,180,0
+2026-04-05,Pani Puri Box Type B,packaging,each,7,1,100,0
+2026-04-05,Soup Container Type S,packaging,each,6,1,120,0
+2026-04-05,Water Bottle,packaging,each,2,1,100,0
+2026-04-05,Yogurt Cup Type A,packaging,each,7,1,200,0

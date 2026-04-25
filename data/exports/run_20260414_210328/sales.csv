@@ -1,0 +1,391 @@
+date,item,quantity sold,price,market location
+2025-10-18,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-18,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-18,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2025-10-18,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-18,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-18,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-18,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-10-18,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-10-18,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-10-18,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-18,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-18,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-18,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-18,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-18,Strawberry yogurt,3.0,4.99,Mt Sac Farmers Market
+2025-10-18,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-18,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-25,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-25,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-25,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-25,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-25,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-10-25,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-25,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-10-25,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-10-25,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-25,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-25,Strawberry yogurt,4.0,4.99,Mt Sac Farmers Market
+2025-10-25,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-10-25,Water,1.0,1.0,Mt Sac Farmers Market
+2025-11-01,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-01,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-01,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2025-11-01,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-01,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-01,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-01,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-01,Pani Puri 5 Balls,2.0,3.0,Mt Sac Farmers Market
+2025-11-01,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-01,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-01,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-01,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-01,Strawberry yogurt,2.0,4.99,Mt Sac Farmers Market
+2025-11-01,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-11-01,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-11-01,Strawberry yogurt,2.0,4.99,Mt Sac Farmers Market
+2025-11-08,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2025-11-08,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-08,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-08,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-08,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,3.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 5 Balls,2.0,3.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-08,Pani Puri 5 Balls,2.0,3.0,Mt Sac Farmers Market
+2025-11-08,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-08,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-11-08,Strawberry yogurt,2.0,4.99,Mt Sac Farmers Market
+2025-11-08,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-11-08,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-22,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 12 Balls,4.0,6.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-22,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-22,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-29,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-29,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-11-29,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-29,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-11-29,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-29,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-29,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-11-29,Water,1.0,1.0,Mt Sac Farmers Market
+2025-12-06,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2025-12-06,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-06,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-06,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-06,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-06,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-06,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,3.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-06,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-06,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-12-06,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-12-06,Water,1.0,1.0,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-13,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-12-13,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-12-13,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-12-13,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-12-13,Water,1.0,1.0,Mt Sac Farmers Market
+2025-12-20,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-20,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2025-12-20,Pani Puri 12 Balls,3.0,6.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-20,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2025-12-20,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2025-12-20,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-03,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-03,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-03,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-03,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-03,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-03,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-10,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-10,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-10,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-10,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-10,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-10,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-10,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-17,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-17,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-17,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2026-01-17,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-17,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-17,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-17,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-17,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-17,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-17,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-17,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-17,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-17,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-17,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-17,Strawberry yogurt,3.0,4.99,Mt Sac Farmers Market
+2026-01-17,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-17,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-24,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-24,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-24,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-24,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-24,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-24,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-24,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-24,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-24,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-24,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-24,Strawberry yogurt,4.0,4.99,Mt Sac Farmers Market
+2026-01-24,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-24,Water,1.0,1.0,Mt Sac Farmers Market
+2026-01-31,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-31,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-31,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2026-01-31,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-31,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-31,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-01-31,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-01-31,Pani Puri 5 Balls,2.0,3.0,Mt Sac Farmers Market
+2026-01-31,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-31,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-31,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-31,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-01-31,Strawberry yogurt,2.0,4.99,Mt Sac Farmers Market
+2026-01-31,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-31,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-01-31,Strawberry yogurt,2.0,4.99,Mt Sac Farmers Market
+2026-02-07,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2026-02-07,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-07,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-07,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-07,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,3.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 5 Balls,2.0,3.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-07,Pani Puri 5 Balls,2.0,3.0,Mt Sac Farmers Market
+2026-02-07,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-02-07,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-02-07,Strawberry yogurt,2.0,4.99,Mt Sac Farmers Market
+2026-02-07,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-02-07,Strawberry yogurt,1.0,4.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-14,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 12 Balls,4.0,6.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-14,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-14,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-02-21,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-21,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-21,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-21,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-21,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-02-21,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-02-21,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-02-21,Water,1.0,1.0,Mt Sac Farmers Market
+2026-02-28,Lentil soup,2.0,7.99,Mt Sac Farmers Market
+2026-02-28,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-28,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-28,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-28,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-28,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-28,Lentil soup,1.0,7.99,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,2.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,3.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 12 Balls,1.0,6.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-28,Pani Puri 5 Balls,1.0,3.0,Mt Sac Farmers Market
+2026-02-28,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-02-28,Pepsi Lemonade,1.0,4.0,Mt Sac Farmers Market
+2026-02-28,Water,1.0,1.0,Mt Sac Farmers Market

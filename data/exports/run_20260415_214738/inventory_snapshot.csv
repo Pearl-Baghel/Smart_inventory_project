@@ -1,0 +1,25 @@
+snapshot_date,component,on_hand_qty,unit_of_measurement,component_type
+2026-04-10,Paneer,20,kg,ingredient
+2026-04-10,Chickpea,20,kg,ingredient
+2026-04-10,Red KidneyBean,20,kg,ingredient
+2026-04-10,Green chilli,5,kg,ingredient
+2026-04-10,Ginger,5,kg,ingredient
+2026-04-10,Corriander,4,kg,ingredient
+2026-04-10,Garlic,10,kg,ingredient
+2026-04-10,Tamarid,10,kg,ingredient
+2026-04-10,Dates,20,kg,ingredient
+2026-04-10,Mint,5,kg,ingredient
+2026-04-10,Onion,25,kg,ingredient
+2026-04-10,Tomato,30,kg,ingredient
+2026-04-10,Yogurt Base,15,kg,ingredient
+2026-04-10,Strawberry,10,kg,ingredient
+2026-04-10,Lemon,6,kg,ingredient
+2026-04-10,Lentils,25,kg,ingredient
+2026-04-10,Potato,20,kg,ingredient
+2026-04-10,Spices Mix,5,kg,ingredient
+2026-03-06,Meal Box Type 1,500,each,packaging
+2026-03-06,Yogurt Cup Type A,300,each,packaging
+2026-03-06,Drink Cup Type L,180,each,packaging
+2026-03-06,Soup Container Type S,300,each,packaging
+2026-03-06,Pani Puri Box Type B,300,each,packaging
+2026-03-06,Water Bottle,100,each,packaging

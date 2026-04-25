@@ -1,0 +1,25 @@
+item,week_end_date,forecast_qty,method
+Lentil soup,2026-03-08,4.97,Prophet
+Lentil soup,2026-03-15,4.44,Prophet
+Lentil soup,2026-03-22,3.9,Prophet
+Lentil soup,2026-03-29,3.37,Prophet
+Paneer Meal plate,2026-03-08,6.31,Prophet
+Paneer Meal plate,2026-03-15,5.75,Prophet
+Paneer Meal plate,2026-03-22,5.2,Prophet
+Paneer Meal plate,2026-03-29,4.64,Prophet
+Pani Puri 12 Balls,2026-03-08,7.06,Prophet
+Pani Puri 12 Balls,2026-03-15,6.51,Prophet
+Pani Puri 12 Balls,2026-03-22,5.97,Prophet
+Pani Puri 12 Balls,2026-03-29,5.42,Prophet
+Pani Puri 5 Balls,2026-03-08,4.28,Prophet
+Pani Puri 5 Balls,2026-03-15,3.87,Prophet
+Pani Puri 5 Balls,2026-03-22,3.46,Prophet
+Pani Puri 5 Balls,2026-03-29,3.06,Prophet
+Pepsi Lemonade,2026-03-08,1.48,Prophet
+Pepsi Lemonade,2026-03-15,1.27,Prophet
+Pepsi Lemonade,2026-03-22,1.06,Prophet
+Pepsi Lemonade,2026-03-29,0.85,Prophet
+Strawberry yogurt,2026-03-08,0.0,Prophet
+Strawberry yogurt,2026-03-15,0.0,Prophet
+Strawberry yogurt,2026-03-22,0.0,Prophet
+Strawberry yogurt,2026-03-29,0.0,Prophet

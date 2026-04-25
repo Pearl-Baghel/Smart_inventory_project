@@ -1,0 +1,20 @@
+item,component,quantity per unit,kg,component_type
+Paneer Meal plate,Paneer,0.25,kg,ingredient
+Paneer Meal plate,Onion,0.1,kg,ingredient
+Paneer Meal plate,Tomato,0.1,kg,ingredient
+Paneer Meal plate,Meal Box Type 1,1.0,each,packaging
+Strawberry yogurt,Yogurt Base,0.2,kg,ingredient
+Strawberry yogurt,Strawberry,0.05,kg,ingredient
+Strawberry yogurt,Yogurt Cup Type A,1.0,each,packaging
+Pineapple Yogurt,Yogurt Base,0.2,kg,ingredient
+Pineapple Yogurt,Pineapple,0.05,kg,ingredient
+Pineapple Yogurt,Yogurt Cup Type A,1.0,each,packaging
+Pepsi Lemonade,Lemon Juice Mix,0.25,kg,ingredient
+Pepsi Lemonade,Drink Cup Type L,1.0,each,packaging
+Lentil soup,Lentils,0.2,kg,ingredient
+Lentil soup,Onion,0.08,kg,ingredient
+Lentil soup,Tomato,0.08,kg,ingredient
+Lentil soup,Soup Container Type S,1.0,each,packaging
+Pani Puri 12 Balls,Potato Stuffing,0.15,kg,subcomponent
+Pani Puri 12 Balls,Pani Puri Box Type B,1.0,each,packaging
+Pani Puri 5 Balls,Potato Stuffing,0.08,kg,subcomponent

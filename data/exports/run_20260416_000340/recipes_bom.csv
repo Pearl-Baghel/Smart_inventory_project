@@ -1,0 +1,40 @@
+item,component,quantity per unit,kg,component_type
+Paneer Meal Plate,Paneer,0.25,kg,ingredient
+Paneer Meal Plate,Onion,0.1,kg,ingredient
+Paneer Meal Plate,Ginger,0.05,kg,ingredient
+Paneer Meal Plate,Green chilli,0.05,kg,ingredient
+Paneer Meal Plate,Garlic,0.05,kg,ingredient
+Paneer Meal Plate,Tomato,0.1,kg,ingredient
+Paneer Meal Plate,Meal Box Type 1,1.0,each,packaging
+Chickpea Meal Plate,Chickpea,0.25,kg,ingredient
+Chickpea Meal Plate,Onion,0.1,kg,ingredient
+Chickpea Meal Plate,Ginger,0.05,kg,ingredient
+Chickpea Meal Plate,Green chilli,0.05,kg,ingredient
+Chickpea Meal Plate,Garlic,0.05,kg,ingredient
+Chickpea Meal Plate,Tomato,0.1,kg,ingredient
+Chickpea Meal Plate,Meal Box Type 1,1.0,each,packaging
+Red KidneyBean Plate,Red KidneyBean,0.25,kg,ingredient
+Red KidneyBean Plate,Onion,0.1,kg,ingredient
+Red KidneyBean Plate,Ginger,0.05,kg,ingredient
+Red KidneyBean Plate,Green chilli,0.05,kg,ingredient
+Red KidneyBean Plate,Garlic,0.05,kg,ingredient
+Red KidneyBean Plate,Tomato,0.1,kg,ingredient
+Red KidneyBean Plate,Meal Box Type 1,1.0,each,packaging
+Strawberry yogurt,Yogurt Base,0.2,kg,ingredient
+Strawberry yogurt,Strawberry,0.05,kg,ingredient
+Strawberry yogurt,Yogurt Cup Type A,1.0,each,packaging
+Pepsi Lemonade,Lemon,0.25,kg,ingredient
+Pepsi Lemonade,Drink Cup Type L,1.0,each,packaging
+Lentil soup,Green chilli,0.05,kg,ingredient
+Lentil soup,Ginger,0.05,kg,ingredient
+Lentil soup,Garlic,0.05,kg,ingredient
+Lentil soup,Lentils,0.2,kg,ingredient
+Lentil soup,Onion,0.08,kg,ingredient
+Lentil soup,Tomato,0.08,kg,ingredient
+Lentil soup,Soup Container Type S,1.0,each,packaging
+Pani Puri 12 Balls,Potato Stuffing,0.15,kg,subcomponent
+Pani Puri 12 Balls,Pani Puri Box Type B,1.0,each,packaging
+Pani Puri 5 Balls,Potato Stuffing,0.08,kg,subcomponent
+Pani Puri 5 Balls,pani puri water,4.0,kg,subcomponent
+Pani Puri 5 Balls,Tamarid chutney,0.5,kg,subcomponent
+Water,Water Bottle,1.0,each,packaging

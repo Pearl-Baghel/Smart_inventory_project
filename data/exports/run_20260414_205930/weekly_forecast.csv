@@ -1,0 +1,25 @@
+item,week_end_date,forecast_qty,method
+Lentil soup,2026-04-19,12,Prophet
+Lentil soup,2026-04-26,12,Prophet
+Lentil soup,2026-05-03,12,Prophet
+Lentil soup,2026-05-10,13,Prophet
+Pani Puri 12 Balls,2026-04-19,15,Prophet
+Pani Puri 12 Balls,2026-04-26,15,Prophet
+Pani Puri 12 Balls,2026-05-03,16,Prophet
+Pani Puri 12 Balls,2026-05-10,16,Prophet
+Pani Puri 5 Balls,2026-04-19,10,Prophet
+Pani Puri 5 Balls,2026-04-26,11,Prophet
+Pani Puri 5 Balls,2026-05-03,11,Prophet
+Pani Puri 5 Balls,2026-05-10,11,Prophet
+Pepsi Lemonade,2026-04-19,4,Prophet
+Pepsi Lemonade,2026-04-26,4,Prophet
+Pepsi Lemonade,2026-05-03,4,Prophet
+Pepsi Lemonade,2026-05-10,4,Prophet
+Strawberry yogurt,2026-04-19,3,Croston
+Strawberry yogurt,2026-04-26,3,Croston
+Strawberry yogurt,2026-05-03,3,Croston
+Strawberry yogurt,2026-05-10,3,Croston
+Water,2026-04-19,3,Croston
+Water,2026-04-26,3,Croston
+Water,2026-05-03,3,Croston
+Water,2026-05-10,3,Croston

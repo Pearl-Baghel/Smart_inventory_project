@@ -1,0 +1,26 @@
+week_end_date,component,uom,component_type,required_qty
+2026-03-29,Chickpea,kg,ingredient,3
+2026-03-29,Corriander,kg,ingredient,15
+2026-03-29,Dates,kg,ingredient,14
+2026-03-29,Garlic,kg,ingredient,2
+2026-03-29,Ginger,kg,ingredient,2
+2026-03-29,Green chilli,kg,ingredient,16
+2026-03-29,Lemon,kg,ingredient,2
+2026-03-29,Lentils,kg,ingredient,2
+2026-03-29,Mint,kg,ingredient,14
+2026-03-29,Onion,kg,ingredient,4
+2026-03-29,Paneer,kg,ingredient,3
+2026-03-29,Potato,kg,ingredient,2
+2026-03-29,Red KidneyBean,kg,ingredient,2
+2026-03-29,Spices Mix,kg,ingredient,1
+2026-03-29,Strawberry,kg,ingredient,1
+2026-03-29,Tamarid,kg,ingredient,7
+2026-03-29,Tomato,kg,ingredient,4
+2026-03-29,Yogurt Base,kg,ingredient,2
+2026-03-29,spices mix,kg,ingredient,1
+2026-03-29,Drink Cup Type L,each,packaging,6
+2026-03-29,Meal Box Type 1,each,packaging,26
+2026-03-29,Pani Puri Box Type B,each,packaging,7
+2026-03-29,Soup Container Type S,each,packaging,8
+2026-03-29,Water Bottle,each,packaging,5
+2026-03-29,Yogurt Cup Type A,each,packaging,8
